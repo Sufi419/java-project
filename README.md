@@ -1,2 +1,5 @@
 # java-project
-basic java
+This is my first Git Repository
+<br>
+Author-Sufiya Praween
+
